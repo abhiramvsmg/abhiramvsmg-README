@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠 Tech Stack (concise & grouped)
+### 🛠 Tech Stack
 
 **Languages**  
 `Python` `SQL` `Java` `C` `JavaScript` `HTML` `CSS`
@@ -33,25 +33,27 @@
 **Databases**  
 `PostgreSQL` `MySQL` `SQLite` · indexing · query optimization
 
+---
 
-### ⭐ Featured Projects (teasers — put links to your repos)
+### ⭐ Featured Projects
 
 - **Real-Time Analytics API** — *FastAPI · PostgreSQL · Docker*  
   Built an event ingestion API + aggregated endpoints. Focus: low-latency aggregation and stable deployment.  
-  **Repo:** `github.com/abhiramvsmg/realtime-analytics` · *(Add run instructions in project README)*
+  **Repo:** [github.com/abhiramvsmg/realtime-analytics](https://github.com/abhiramvsmg/realtime-analytics)  
 
 - **Sales Forecasting Pipeline** — *Python · pandas · scikit-learn*  
   Reproducible pipeline for daily forecasts; includes feature store and evaluation suite.  
-  **Repo:** `github.com/abhiramvsmg/sales-forecast`
+  **Repo:** [github.com/abhiramvsmg/sales-forecast](https://github.com/abhiramvsmg/sales-forecast)
 
 - **Portfolio Website** — *HTML · CSS · JavaScript*  
   Static, responsive portfolio served from GitHub Pages. Clean layout, mobile-first.  
-  **Repo:** `github.com/abhiramvsmg/portfolio`
+  **Repo:** [github.com/abhiramvsmg/portfolio](https://github.com/abhiramvsmg/portfolio)
 
-> Tip: In each project README include a short “How to run” and one measurable outcome (e.g., latency, accuracy, or throughput).
+> Tip: Include “How to run” and one measurable outcome (latency, accuracy, throughput) in each project README.
 
 ---
-### 🧾 For Recruiters (One-Glance Summary)
+
+### 🧾 For Recruiters
 
 **Role:** Backend / Full-Stack Developer · **Location:** India  
 **Availability:** Immediate / 30 Days  
@@ -59,17 +61,27 @@
 **Top Strengths:** API Design, SQL Optimization, Data Pipelines, Production-Ready Solutions  
 
 **Top Repo:** [Featured Project](https://github.com/abhiramvsmg/featured-project)  
-**Resume:** [Download Resume (PDF)](https://github.com/abhiramvsmg/abhiramvsmg/blob/main/Abhiram_Resume.pdf)  
-**Email:** abhiramvsmg@gmail.com
+
+---
+
+### 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white)](Abhiram_Resume.pdf)
+
+> ✅ Make sure `Abhiram_Resume.pdf` is in the root folder of your repo so the badge works correctly.
 
 ---
 
 ### 📬 Contact & Links
 
 <p align="center">
-  <a href="https://github.com/abhiramvsmg">![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)</a>
+  <a href="mailto:abhiramvsmg@gmail.com">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/in/abhiram-v-4a0055284">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a>
+  <a href="https://www.linkedin.com/in/abhiram-v-4a0055284">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  &nbsp;
+  <a href="https://www.instagram.com/abhiram__v__">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+  &nbsp;
+  <a href="https://github.com/abhiramvsmg">![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)</a>
 </p>
 
 ---
@@ -77,8 +89,9 @@
 ### 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiramvsmg&label=Visitors&color=ff5733&style=plastic" />
+  <b>Reach Me:</b> abhiramvsmg@gmail.com &nbsp;|&nbsp; LinkedIn: in/abhiram-v-4a0055284 &nbsp;|&nbsp; Instagram: abhiram__v__  
 </p>
 
----
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhiramvsmg&label=Profile+Views&color=ff5733&style=plastic" />
+</p>
