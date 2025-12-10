@@ -47,9 +47,6 @@
 - **Portfolio Website** — *HTML · CSS · JavaScript*  
   Static, responsive portfolio served from GitHub Pages. Clean layout, mobile-first.  
   **Repo:** `github.com/abhiramvsmg/portfolio`
-
-> Tip: In each project README include a short “How to run” and one measurable outcome (e.g., latency, accuracy, or throughput).
-
 ---
 ### 🧾 For Recruiters (One-Glance Summary)
 
@@ -64,11 +61,9 @@
 
 ---
 
-### 📬 Contact & Links
+### 📬 Contact & Links  ## Connect with me:
 
-## Connect with me:
-
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/abhiram-v-4a0055284//" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
