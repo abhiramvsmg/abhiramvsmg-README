@@ -74,8 +74,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhiram__v__)
+<a href="https://www.instagram.com/abhiram__v__/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
+</a>
 
 
 <a href="mailto:abhiramvsmg@gmail.com" target="_blank">
