@@ -60,7 +60,7 @@
 
 **Top Repo:** [Featured Project](https://github.com/abhiramvsmg/featured-project)  
 **Resume:** [Download Resume (PDF)](https://github.com/abhiramvsmg/abhiramvsmg-README/blob/main/Abhiram_Resume.pdf)
-**Email:** abhiramvsmg@gmail.com
+**Email:** [abhiramvsmg@gmail.com](mailto:abhiramvmsg@gmail.com)
 
 ---
 
