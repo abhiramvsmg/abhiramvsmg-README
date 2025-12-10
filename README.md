@@ -1,5 +1,3 @@
-# abhiramvsmg-README
-
 <h1 align="center">✨ Welcome to My Digital Workspace!</h1>
 
 <p align="center">
@@ -48,17 +46,43 @@
   Static, responsive portfolio served from GitHub Pages. Clean layout, mobile-first.  
   **Repo:** `github.com/abhiramvsmg/portfolio`
 ---
-### 🧾 For Recruiters (One-Glance Summary)
+## 🧾 For Recruiters — Quick Summary  
 
-**Role:** Backend / Full-Stack Developer · **Location:** India  
-**Availability:** Immediate / 30 Days  
+<p align="center">
+  <strong>Backend / Full-Stack Developer · India</strong><br/>
+  <strong>Availability:</strong> Immediate / 30 Days
+</p>
 
-**Top Strengths:** API Design, SQL Optimization, Data Pipelines, Production-Ready Solutions  
+---
 
-**Top Repo:** [Featured Project](https://github.com/abhiramvsmg/featured-project)  
-**Resume:** [Download Resume (PDF)](https://github.com/abhiramvsmg/abhiramvsmg-README/blob/main/Abhiram_Resume.pdf)
-**Email:** [abhiramvsmg@gmail.com](mailto:abhiramvmsg@gmail.com)
+### ⭐ Top Strengths  
+<p align="center">
+  🔹 API Design & Architecture &nbsp; • &nbsp;
+  🔹 SQL Optimization &nbsp; • &nbsp;
+  🔹 Data Pipelines &nbsp; • &nbsp;
+  🔹 Production-Ready Engineering
+</p>
 
+---
+
+### 🚀 Top Repository  
+<p align="center">
+  <a href="https://github.com/abhiramvsmg">
+    <img src="https://img.shields.io/badge/Featured_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📄 Resume & Contact  
+<p align="center">
+
+  <!-- Resume Download -->
+  <a href="https://github.com/abhiramvsmg/abhiramvsmg-README/raw/main/Abhiram_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+
+  <br/><br/>
 ---
 
 ### 📬 Contact & Links  
