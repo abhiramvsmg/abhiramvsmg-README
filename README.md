@@ -62,25 +62,57 @@
 ---
 
 ### 📬 Contact & Links  
-## Connect with me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abhiram-v-4a0055284//" target="_blank">
+  <a href="https://www.linkedin.com/in/abhiram-v-4a0055284//" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-<a href="https://www.instagram.com/abhiram__v__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techytapas/" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/abhiram__v__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techytapas/" height="30" width="40" />
+</a>
+
 <a href="mailto:abhiramvsmg@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
 </p>
 
 ---
-
-### 👀 Visitors
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhiramvsmg&label=Visitors&color=ff5733&style=plastic" />
-</p>
 
----
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+
+<!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+
+<!-- C -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+
+<!-- SQL / MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+
+<!-- MongoDB -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+
+<!-- HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+
+<!-- CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+
+</p>
 
