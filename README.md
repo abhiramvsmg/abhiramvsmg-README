@@ -75,8 +75,9 @@
 </a>
 
 <a href="https://www.instagram.com/abhiram__v__/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="40" height="40"/>
 </a>
+
 
 <a href="mailto:abhiramvsmg@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
