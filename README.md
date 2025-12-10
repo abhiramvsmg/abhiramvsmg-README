@@ -64,16 +64,22 @@
 ### 📬 Contact & Links  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhiram-v-4a0055284//" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
 
-<a href="https://www.instagram.com/abhiram__v__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techytapas/" height="30" width="40" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abhiram-v-4a0055284/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+  </a>
 
-<a href="mailto:abhiramvsmg@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
-</a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/abhiram__v__/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50" height="50"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:abhiramvsmg@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50"/>
+  </a>
+
 </p>
 
 ---
