@@ -71,9 +71,10 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/abhiram__v__/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50" height="50"/>
-  </a>
+<a href="https://www.instagram.com/abhiram__v__/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50" />
+</a>
+
 
   <!-- Gmail -->
   <a href="mailto:abhiramvsmg@gmail.com" target="_blank">
