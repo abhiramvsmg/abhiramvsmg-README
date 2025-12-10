@@ -67,9 +67,8 @@
 ### 📬 Contact & Links
 
 <p align="center">
-  <a href="https://github.com/abhiramvsmg">![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)</a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/in/abhiram-v-4a0055284">![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)</a>
+  <a href="https://github.com/abhiramvsmg">![![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/abhiramvsmg)
+  <a href="https://www.linkedin.com/in/in/abhiram-v-4a0055284">![![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/in/abhiram-v-4a0055284/)
 </p>
 
 ---
