@@ -114,7 +114,7 @@ Optimized algorithmic solutions with clear explanations.
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank">
+  <a href="https:/www.linkedin.com/in/abhiram-v-4a0055284//" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
