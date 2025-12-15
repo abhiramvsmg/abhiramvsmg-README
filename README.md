@@ -1,15 +1,5 @@
-<p align="center" title="Hi, I'm Abhiram! 👋">
-  <svg width="400" height="40" viewBox="0 0 400 40">
-    <text x="-200" y="25" font-size="18">
-      Hi, I'm Abhiram! 👋
-      <animate
-        attributeName="x"
-        from="-200"
-        to="400"
-        dur="10s"
-        repeatCount="indefinite" />
-    </text>
-  </svg>
+<p align="center">
+  <img src="https://your-animated-gif-link.gif" alt="Hi, I'm Abhiram!" />
 </p>
 
 
@@ -156,21 +146,10 @@
 
 <!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-
-
-<p align="center" title="Thanks for visiting 🙌">
-  <svg width="400" height="40" viewBox="0 0 400 40">
-    <text x="-200" y="25" font-size="18">
-      Thanks for visiting 🙌
-      <animate
-        attributeName="x"
-        from="-200"
-        to="400"
-        dur="10s"
-        repeatCount="indefinite" />
-    </text>
-  </svg>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+%F0%9F%99%8C" />
+</p>
 
 
