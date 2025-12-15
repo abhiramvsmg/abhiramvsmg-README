@@ -48,8 +48,12 @@
 
 <hr/>
 
-<!-- ================= GITHUB STATS ================= -->
-<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true"
+    alt="Abhiram V – GitHub Stats"
+  />
+</p>
 
 
 
@@ -94,16 +98,6 @@
 
 <hr/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&show_icons=true&locale=en&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&locale=en&hide_border=true"
-    height="160"
-  />
-</p>
 
 
 <!-- ================= OUTRO ================= -->
