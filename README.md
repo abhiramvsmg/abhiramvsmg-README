@@ -48,15 +48,6 @@
 
 <hr/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true"
-    alt="Abhiram V – GitHub Stats"
-  />
-</p>
-
-
-
 <hr/>
 
 <!-- ================= CONTACT ================= -->
@@ -104,6 +95,12 @@
     height="160"
     alt="Abhiram V – Most Used Languages"
   />
+  <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true"
+    alt="Abhiram V – GitHub Stats"
+  />
+</p>
 
 
 
