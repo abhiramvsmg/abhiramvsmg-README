@@ -110,6 +110,18 @@
 
 <hr/>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&show_icons=true&locale=en&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&locale=en&hide_border=true"
+    height="160"
+  />
+</p>
+
+
 <!-- ================= OUTRO ================= -->
 <div align="center">
   <img
