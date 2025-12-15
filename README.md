@@ -122,12 +122,17 @@ Optimized algorithmic solutions with clear explanations.
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/abhiramvsmg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" />
-  </a>
-</p>
+<a href="https://github.com/abhiramvsmg" target="_blank"
+   style="display:inline-block; margin: 0 12px;">
+  <img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+    alt="GitHub"
+    width="36"
+    height="36"
+    style="filter: invert(1);"
+  />
+</a>
 
-<hr/>
 
 <!-- ================= OUTRO ================= -->
 <p align="center">
