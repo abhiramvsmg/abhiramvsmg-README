@@ -88,30 +88,29 @@
 <!-- ================= SOCIAL CONNECTIONS ================= -->
 <h2 align="center">Connect with me</h2>
 
-<div align="center">
+<p align="center">
   <a href="https://www.instagram.com/abhiram__v__/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
-      height="30"
-      width="40"
+      height="50"
+      width="50"
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
-      height="30"
-      width="40"
+      height="50"
+      width="50"
     />
   </a>
-</div>
+</p>
 
 <hr/>
-
 
 
 <!-- ================= OUTRO ================= -->
