@@ -132,7 +132,6 @@ Optimized algorithmic solutions with clear explanations.
     style="filter: invert(1);"
   />
 </a>
-S
 
 <!-- ================= OUTRO ================= -->
 <p align="center">
