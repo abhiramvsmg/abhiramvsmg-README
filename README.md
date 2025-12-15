@@ -112,15 +112,16 @@ Solved and documented algorithmic problems focusing on optimization and clarity.
 <!-- ================= RESUME & PORTFOLIO ================= -->
 <h2 align="center">📄 Resume & Portfolio</h2>
 <div align="center">
+
 📌 <strong>Resume:</strong><br/>
-<a href="./Abhiram_Resume.pdf" target="_blank">
+<a href="./Abhiram_Resume.pdf" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Download Resume" />
 </a>
 
 <br/><br/>
 
 🌐 <strong>Portfolio:</strong><br/>
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://your-portfolio-link.com" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Visit-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link" />
 </a>
 </div>
@@ -130,15 +131,42 @@ Solved and documented algorithmic problems focusing on optimization and clarity.
 
 <!-- ================= SOCIAL CONNECTIONS ================= -->
 <h2 align="center">🤝 Connect with Me</h2>
+
 <p align="center">
-  <a href="https://www.instagram.com/abhiram__v__/" target="_blank" style="display:inline-block; margin: 0 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="36" height="36" />
+  <a href="https://www.instagram.com/abhiram__v__/" target="_blank"
+     style="display:inline-block; margin: 0 12px; transition: transform 0.2s;">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
+      alt="Instagram"
+      width="36"
+      height="36"
+      onmouseover="this.style.transform='scale(1.2)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank" style="display:inline-block; margin: 0 12px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
+
+  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank"
+     style="display:inline-block; margin: 0 12px; transition: transform 0.2s;">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+      alt="LinkedIn"
+      width="36"
+      height="36"
+      onmouseover="this.style.transform='scale(1.2)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
   </a>
-  <a href="https://github.com/abhiramvsmg" target="_blank" style="display:inline-block; margin: 0 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36" />
+
+  <a href="https://github.com/abhiramvsmg" target="_blank"
+     style="display:inline-block; margin: 0 12px; transition: transform 0.2s;">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+      alt="GitHub"
+      width="36"
+      height="36"
+      onmouseover="this.style.transform='scale(1.2)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
   </a>
 </p>
 
