@@ -4,7 +4,7 @@
 
 <br/>
 
-<!-- ================= VISITOR / INTRO ================= -->
+<!-- ================= TYPING INTRO ================= -->
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Designing+Clean+REST+APIs;Always+Learning+%26+Improving"
@@ -18,11 +18,11 @@
 <!-- ================= ABOUT ME ================= -->
 <h2 align="center">🚀 About Me</h2>
 <div align="center">
-🔭 Currently building **Backend Systems, REST APIs & Database Solutions**  
-🌱 Learning **Advanced Databases, System Design & Performance Optimization**  
-💬 Ask me about **Python, SQL, Java, C, JavaScript, OOP & DSA**  
-📊 Exploring **Data Science & Machine Learning**  
-⚡ Fun fact: **I break systems to understand them better 😄**
+🔭 Currently building <strong>Backend Systems, REST APIs & Database Solutions</strong><br/>
+🌱 Learning <strong>Advanced Databases, System Design & Performance Optimization</strong><br/>
+💬 Ask me about <strong>Python, SQL, Java, C, JavaScript, OOP & DSA</strong><br/>
+📊 Exploring <strong>Data Science & Machine Learning</strong><br/>
+⚡ Fun fact: I break systems to understand them better 😄
 </div>
 
 <br/>
@@ -31,18 +31,9 @@
 <!-- ================= TECH STACK ================= -->
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
-**Languages**<br/>
-Python · SQL · Java · C · JavaScript · HTML · CSS  
-
-<br/>
-
-**Backend & APIs**<br/>
-FastAPI · Flask · Django · REST · JWT · Performance Tuning  
-
-<br/>
-
-**Databases**<br/>
-PostgreSQL · MySQL · SQLite · MongoDB
+<strong>Languages:</strong> Python · SQL · Java · C · JavaScript · HTML · CSS<br/>
+<strong>Backend & APIs:</strong> FastAPI · Flask · Django · REST · JWT · Performance Tuning<br/>
+<strong>Databases:</strong> PostgreSQL · MySQL · SQLite · MongoDB
 </div>
 
 <br/>
@@ -68,19 +59,8 @@ PostgreSQL · MySQL · SQLite · MongoDB
 
 <!-- ================= GITHUB CONTRIBUTION GRAPH ================= -->
 <h2 align="center">📈 GitHub Contributions</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abhiramvsmg&theme=react-dark" />
-</p>
-
-<br/>
-<hr/>
-
-<!-- ================= CAREER INTEREST ================= -->
-<h2 align="center">🎯 Career Interests</h2>
 <div align="center">
-Backend / Full-Stack Developer Roles  
-Scalable Systems & API Design  
-Teams that value clean code & problem solving
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhiramvsmg&theme=react-dark" />
 </div>
 
 <br/>
@@ -89,21 +69,14 @@ Teams that value clean code & problem solving
 <!-- ================= FEATURED PROJECTS ================= -->
 <h2 align="center">⭐ Featured Projects</h2>
 <div align="center">
-🔹 <strong>Scalable REST API System</strong><br/>
-FastAPI · JWT Authentication · PostgreSQL<br/>
-Designed a secure, high-performance REST API with role-based access and optimized queries.
+🔹 <strong>Scalable REST API System</strong> (FastAPI, JWT, PostgreSQL)<br/>
+Designed secure, high-performance REST API with role-based access and optimized queries.<br/><br/>
 
-<br/><br/>
+🔹 <strong>Database-Driven Web Application</strong> (Flask, SQL)<br/>
+Full CRUD application with clean schema design and validation logic.<br/><br/>
 
-🔹 <strong>Database-Driven Web Application</strong><br/>
-Flask · SQL · MVC Architecture<br/>
-Built a full CRUD application with clean schema design and validation logic.
-
-<br/><br/>
-
-🔹 <strong>DSA & Problem Solving Repository</strong><br/>
-Python · Java<br/>
-Solved and documented algorithmic problems focusing on optimization and clarity.
+🔹 <strong>DSA & Problem Solving Repository</strong> (Python, Java)<br/>
+Solved algorithmic problems focusing on optimization and clarity.
 </div>
 
 <br/>
@@ -112,16 +85,11 @@ Solved and documented algorithmic problems focusing on optimization and clarity.
 <!-- ================= RESUME & PORTFOLIO ================= -->
 <h2 align="center">📄 Resume & Portfolio</h2>
 <div align="center">
-
-📌 <strong>Resume:</strong><br/>
-<a href="./Abhiram_Resume.pdf" target="_blank" style="text-decoration:none;">
+<a href="./Abhiram_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Download Resume" />
 </a>
-
-<br/><br/>
-
-🌐 <strong>Portfolio:</strong><br/>
-<a href="https://your-portfolio-link.com" target="_blank" style="text-decoration:none;">
+&nbsp;&nbsp;&nbsp;
+<a href="https://your-portfolio-link.com" target="_blank">
   <img src="https://img.shields.io/badge/Visit-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link" />
 </a>
 </div>
@@ -131,49 +99,22 @@ Solved and documented algorithmic problems focusing on optimization and clarity.
 
 <!-- ================= SOCIAL CONNECTIONS ================= -->
 <h2 align="center">🤝 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.instagram.com/abhiram__v__/" target="_blank"
-     style="display:inline-block; margin: 0 12px; transition: transform 0.2s;">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
-      alt="Instagram"
-      width="36"
-      height="36"
-      onmouseover="this.style.transform='scale(1.2)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+<div align="center" style="display:flex; justify-content:center; gap:25px;">
+  <a href="https://www.instagram.com/abhiram__v__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="36" height="36" alt="Instagram" />
   </a>
-
-  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank"
-     style="display:inline-block; margin: 0 12px; transition: transform 0.2s;">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
-      alt="LinkedIn"
-      width="36"
-      height="36"
-      onmouseover="this.style.transform='scale(1.2)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="36" height="36" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/abhiramvsmg" target="_blank"
-     style="display:inline-block; margin: 0 12px; transition: transform 0.2s;">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
-      alt="GitHub"
-      width="36"
-      height="36"
-      onmouseover="this.style.transform='scale(1.2)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+  <a href="https://github.com/abhiramvsmg" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="36" height="36" alt="GitHub" />
   </a>
-</p>
+</div>
 
 <br/>
 <hr/>
 
 <!-- ================= OUTRO ================= -->
-<h3 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!;Have+A+Great+Day!;Feel+Free+To+Connect+%F0%9F%91%8B" alt="Outro" />
-</h3>
+</div>
