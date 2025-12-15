@@ -2,7 +2,7 @@
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Abhiram!+%F0%9F%91%8B"
-    alt="Hi, I'm Abhiram"
+    alt="Hi, I'm Abhiram 👋"
   />
 </div>
 
@@ -17,7 +17,6 @@
 
 <!-- ================= ABOUT ME ================= -->
 <h3>🚀 About Me</h3>
-
 <ul>
   <li>🔭 Building <strong>Backend systems, REST APIs & Database solutions</strong></li>
   <li>🧠 Passionate about <strong>DSA & logical problem solving</strong></li>
@@ -48,33 +47,34 @@
 
 <hr/>
 
-<hr/>
-
-<!-- ================= CONTACT ================= -->
-<h2 align="center">Connect with me:</h2>
+<!-- ================= CONNECT ================= -->
+<h2 align="center">Connect with me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhiram-v-4a0055284/" target="blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="Abhiram V LinkedIn"
-         height="30"
-         width="40" />
+  <a href="https://www.linkedin.com/in/abhiram-v-4a0055284/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Abhiram V LinkedIn"
+      height="30"
+      width="40"
+    />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/abhiram__v__/" target="blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="Abhiram V Instagram"
-         height="30"
-         width="40" />
+  <a href="https://www.instagram.com/abhiram__v__/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Abhiram V Instagram"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
+
+<hr/>
 
 <!-- ================= TECH ICONS ================= -->
 <h3 align="center">🛠️ Technologies</h3>
 
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
@@ -85,30 +85,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-
 </div>
 
 <hr/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&show_icons=true&hide_border=true"
-    height="160"
-    alt="Abhiram V – Most Used Languages"
-  />
-  <p align="center">
+<!-- ================= GITHUB STATS ================= -->
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true"
-    alt="Abhiram V – GitHub Stats"
+    height="160"
+    alt="Abhiram V GitHub Stats"
   />
-</p>
+</div>
 
+<br/>
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&hide_border=true"
+    height="140"
+    alt="Most Used Languages"
+  />
+</div>
+
+<hr/>
 
 <!-- ================= OUTRO ================= -->
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+%F0%9F%99%8C"
-    alt="Thanks for visiting"
+    alt="Thanks for visiting 🙌"
   />
 </div>
