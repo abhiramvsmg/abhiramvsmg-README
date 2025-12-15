@@ -51,23 +51,7 @@
 <!-- ================= GITHUB STATS ================= -->
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
 
-  <!-- Most Used Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiramvsmg&layout=compact&theme=default&hide_border=true"
-    alt="Most Used Languages"
-    height="165"
-  />
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-
-</div>
 
 <hr/>
 
