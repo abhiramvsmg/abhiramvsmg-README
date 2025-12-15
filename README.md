@@ -67,26 +67,24 @@
 <hr/>
 
 <!-- ================= GITHUB STATS ================= -->
+<h2 align="center">GitHub Stats</h2>
+
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&hide_border=true"
     height="160"
     alt="Most Used Languages"
   />
-</div>
-
-<br/>
-
-<div align="center">
+  &nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true"
+    height="160"
     alt="GitHub Stats"
   />
 </div>
 
 <hr/>
 
-<!-- ================= SOCIAL CONNECTIONS ================= -->
 <!-- ================= SOCIAL CONNECTIONS ================= -->
 <h2 align="center">Connect with me</h2>
 
@@ -113,6 +111,7 @@
 </div>
 
 <hr/>
+
 
 
 <!-- ================= OUTRO ================= -->
