@@ -96,6 +96,14 @@ Optimized algorithmic solutions with clear explanations.
 
 <hr/>
 
+<p align="center">
+<b>All my projects and internship work are organized inside the  
+➡️ **Repositories** tab above.</b><br/>
+
+🔹 Data Science Internship – Zephyr Technology<br/>
+🔹 Python Backend Projects<br/>
+🔹 Full-Stack Applications<br/>
+
 <!-- ================= RESUME ================= -->
 <h2 align="center">📄 Resume</h2>
 
