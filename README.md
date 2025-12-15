@@ -2,7 +2,7 @@
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Abhiram!"
-    alt="Hi, I'm Abhiram"
+    alt="Hi, I'm Abhiram 👋"
   />
 </div>
 
@@ -97,10 +97,12 @@
 <hr/>
 
 <!-- ================= SOCIAL CONNECTIONS ================= -->
+<!-- ================= SOCIAL CONNECTIONS ================= -->
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/abhiram__v__/" target="_blank" style="display:inline-block; margin: 0 20px;">
+  <a href="https://www.instagram.com/abhiram__v__/" target="_blank"
+     style="display:inline-block; margin: 0 35px;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
@@ -109,7 +111,8 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank" style="display:inline-block; margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank"
+     style="display:inline-block; margin: 0 35px;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
@@ -121,10 +124,11 @@
 
 <hr/>
 
+
 <!-- ================= OUTRO ================= -->
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!"
-    alt="Thanks for visiting"
+    alt="Thanks for visiting 🙌"
   />
 </div>
