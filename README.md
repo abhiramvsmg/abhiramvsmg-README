@@ -1,3 +1,8 @@
+<h1 align="center" title="Hi, I'm Abhiram! 👋">
+  ✨ Welcome to My Digital Workspace!
+</h1>
+
+
 <h1 align="center">✨ Welcome to My Digital Workspace!</h1>
 
 <p align="center">
@@ -141,3 +146,8 @@
 
 <!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+<p align="center" title="Thanks for visiting 🙌">
+  ⭐
+</p>
+
+
