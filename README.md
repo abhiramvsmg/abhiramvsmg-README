@@ -2,7 +2,7 @@
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Abhiram!"
-    alt=
+    alt="Hi, I'm Abhiram 👋"
   />
 </div>
 
@@ -101,28 +101,40 @@
 
 <p align="center">
   <a href="https://www.instagram.com/abhiram__v__/" target="_blank"
-     style="display:inline-block; margin: 0 15px;">
+     style="display:inline-block; margin: 0 18px; text-align:center;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
-      width="48"
-      height="48"
-    />
+      width="46"
+      height="46"
+    /><br/>
+    <sub>Instagram</sub>
   </a>
+
   <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank"
-     style="display:inline-block; margin: 0 15px;">
+     style="display:inline-block; margin: 0 18px; text-align:center;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
-      width="48"
-      height="48"
-    />
+      width="46"
+      height="46"
+    /><br/>
+    <sub>LinkedIn</sub>
+  </a>
+
+  <a href="https://github.com/abhiramvsmg" target="_blank"
+     style="display:inline-block; margin: 0 18px; text-align:center;">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      alt="GitHub"
+      width="46"
+      height="46"
+    /><br/>
+    <sub>GitHub</sub>
   </a>
 </p>
 
 <hr/>
-
-
 
 <!-- ================= OUTRO ================= -->
 <div align="center">
