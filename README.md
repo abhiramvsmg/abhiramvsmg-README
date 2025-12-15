@@ -22,28 +22,8 @@
   <li>🧠 Passionate about <b>DSA, logical problem solving & practical engineering</b></li>
   <li>💬 Ask me about <b>Python, SQL, Java, C, JavaScript, and OOP principles</b></li>
   <li>📊 Actively exploring <b>Data Science, Machine Learning & reproducible analytics</b></li>
-  <li>⚡ Fun Fact: <b>I break things just to fix them better — that’s how developers grow 😄</b></li>
+  <li>⚡ Fun Fact: <b> "I break things just to fix them better — that’s how developers grow 😄"</b></li>
 </ul>
-
-<hr/>
-
-<h3>🛠 Tech Stack (Concise & Grouped)</h3>
-
-<p><b>Languages</b><br/>
-Python · SQL · Java · C · JavaScript · HTML · CSS
-</p>
-
-<p><b>Backend & APIs</b><br/>
-FastAPI · Flask · Django · REST · API versioning · JWT auth · performance tuning
-</p>
-
-<p><b>Data & ML</b><br/>
-pandas · NumPy · scikit-learn · ETL design · feature engineering · model validation
-</p>
-
-<p><b>Databases</b><br/>
-PostgreSQL · MySQL · SQLite · indexing · query optimization
-</p>
 
 <hr/>
 
@@ -132,7 +112,22 @@ PostgreSQL · MySQL · SQLite · indexing · query optimization
 
 <hr/>
 
+<h3 align="center">🛠️ Tech Icons</h3>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+<hr/>
 
 <!-- Typing Outro -->
 <p align="center">
