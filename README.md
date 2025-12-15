@@ -17,19 +17,12 @@
 
 <!-- ================= ABOUT ME ================= -->
 <h2 align="center">🚀 About Me</h2>
-
 <div align="center">
-
-🔭 Currently building **Backend Systems, REST APIs & Database Solutions**
-
-🌱 Learning **Advanced Databases, System Design & Performance Optimization**
-
-💬 Ask me about **Python, SQL, Java, C, JavaScript, OOP & DSA**
-
-📊 Exploring **Data Science & Machine Learning**
-
+🔭 Currently building **Backend Systems, REST APIs & Database Solutions**  
+🌱 Learning **Advanced Databases, System Design & Performance Optimization**  
+💬 Ask me about **Python, SQL, Java, C, JavaScript, OOP & DSA**  
+📊 Exploring **Data Science & Machine Learning**  
 ⚡ Fun fact: **I break systems to understand them better 😄**
-
 </div>
 
 <br/>
@@ -37,22 +30,19 @@
 
 <!-- ================= TECH STACK ================= -->
 <h2 align="center">🛠 Tech Stack</h2>
-
 <div align="center">
-
-**Languages**  
+**Languages**<br/>
 Python · SQL · Java · C · JavaScript · HTML · CSS  
 
 <br/>
 
-**Backend & APIs**  
+**Backend & APIs**<br/>
 FastAPI · Flask · Django · REST · JWT · Performance Tuning  
 
 <br/>
 
-**Databases**  
-PostgreSQL · MySQL · SQLite · MongoDB  
-
+**Databases**<br/>
+PostgreSQL · MySQL · SQLite · MongoDB
 </div>
 
 <br/>
@@ -60,9 +50,8 @@ PostgreSQL · MySQL · SQLite · MongoDB
 
 <!-- ================= TECHNOLOGIES ================= -->
 <h2 align="center">🛠 Languages · Frameworks · Tools</h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,fastapi,flask,django,mysql,postgresql,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,fastapi,flask,django,mysql,postgresql,mongodb,git,github" />
 </div>
 
 <br/>
@@ -70,62 +59,51 @@ PostgreSQL · MySQL · SQLite · MongoDB
 
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&show_icons=true&hide_border=true"
-    height="160"
-    alt="Top Languages"
-  />
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&show_icons=true&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true" height="160" alt="GitHub Stats" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-</div>
+<!-- ================= GITHUB CONTRIBUTION GRAPH ================= -->
+<h2 align="center">📈 GitHub Contributions</h2>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhiramvsmg&theme=react-dark" />
+</p>
 
 <br/>
 <hr/>
 
 <!-- ================= CAREER INTEREST ================= -->
 <h2 align="center">🎯 Career Interests</h2>
-
 <div align="center">
-
 Backend / Full-Stack Developer Roles  
 Scalable Systems & API Design  
-Teams that value clean code & problem solving  
-
+Teams that value clean code & problem solving
 </div>
 
 <br/>
 <hr/>
+
 <!-- ================= FEATURED PROJECTS ================= -->
 <h2 align="center">⭐ Featured Projects</h2>
-
 <div align="center">
-
-🔹 <strong>Scalable REST API System</strong>  
-FastAPI · JWT Authentication · PostgreSQL  
+🔹 <strong>Scalable REST API System</strong><br/>
+FastAPI · JWT Authentication · PostgreSQL<br/>
 Designed a secure, high-performance REST API with role-based access and optimized queries.
 
 <br/><br/>
 
-🔹 <strong>Database-Driven Web Application</strong>  
-Flask · SQL · MVC Architecture  
+🔹 <strong>Database-Driven Web Application</strong><br/>
+Flask · SQL · MVC Architecture<br/>
 Built a full CRUD application with clean schema design and validation logic.
 
 <br/><br/>
 
-🔹 <strong>DSA & Problem Solving Repository</strong>  
-Python · Java  
+🔹 <strong>DSA & Problem Solving Repository</strong><br/>
+Python · Java<br/>
 Solved and documented algorithmic problems focusing on optimization and clarity.
-
 </div>
 
 <br/>
@@ -133,59 +111,34 @@ Solved and documented algorithmic problems focusing on optimization and clarity.
 
 <!-- ================= RESUME & PORTFOLIO ================= -->
 <h2 align="center">📄 Resume & Portfolio</h2>
-
 <div align="center">
-
-📌 <strong>Resume:</strong>  
+📌 <strong>Resume:</strong><br/>
 <a href="./Abhiram_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Download Resume" />
 </a>
 
 <br/><br/>
 
-🌐 <strong>Portfolio:</strong>  
+🌐 <strong>Portfolio:</strong><br/>
 <a href="https://your-portfolio-link.com" target="_blank">
   <img src="https://img.shields.io/badge/Visit-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link" />
 </a>
-
 </div>
 
 <br/>
 <hr/>
 
-
 <!-- ================= SOCIAL CONNECTIONS ================= -->
 <h2 align="center">🤝 Connect with Me</h2>
-
 <p align="center">
-  <a href="https://www.instagram.com/abhiram__v__/" target="_blank"
-     style="display:inline-block; margin: 0 12px;">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      width="36"
-      height="36"
-    />
+  <a href="https://www.instagram.com/abhiram__v__/" target="_blank" style="display:inline-block; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="36" height="36" />
   </a>
-
-  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank"
-     style="display:inline-block; margin: 0 12px;">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      width="36"
-      height="36"
-    />
+  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank" style="display:inline-block; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" height="36" />
   </a>
-
-  <a href="https://github.com/abhiramvsmg" target="_blank"
-     style="display:inline-block; margin: 0 12px;">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      alt="GitHub"
-      width="36"
-      height="36"
-    />
+  <a href="https://github.com/abhiramvsmg" target="_blank" style="display:inline-block; margin: 0 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36" />
   </a>
 </p>
 
@@ -194,8 +147,5 @@ Solved and documented algorithmic problems focusing on optimization and clarity.
 
 <!-- ================= OUTRO ================= -->
 <h3 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!;Have+A+Great+Day!;Feel+Free+To+Connect+%F0%9F%91%8B"
-    alt="Outro"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!;Have+A+Great+Day!;Feel+Free+To+Connect+%F0%9F%91%8B" alt="Outro" />
 </h3>
