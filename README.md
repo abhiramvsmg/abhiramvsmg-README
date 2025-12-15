@@ -6,11 +6,11 @@
   />
 </div>
 
-<h1 align="center">✨ Welcome to My Digital Workspace!</h1>
+<h1 align="center">✨ Welcome to My Digital Workspace</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer Crafting Scalable Backend Systems</strong><br/>
-  Backend-first, data-curious, and focused on building reliable software that scales.
+  <strong>Full-Stack Developer · Backend-Focused Engineer</strong><br/>
+  I build scalable backend systems, clean APIs, and reliable data-driven software.
 </p>
 
 <hr/>
@@ -19,11 +19,11 @@
 <h3>🚀 About Me</h3>
 
 <ul>
-  <li>🔭 Building <strong>Backend systems, REST APIs & Database solutions</strong></li>
-  <li>🧠 Passionate about <strong>DSA & logical problem solving</strong></li>
-  <li>💬 Ask me about <strong>Python, SQL, Java, C, JavaScript & OOP</strong></li>
+  <li>🔭 Designing <strong>backend systems, REST APIs & database solutions</strong></li>
+  <li>🧠 Strong foundation in <strong>DSA & logical problem solving</strong></li>
+  <li>💬 Comfortable with <strong>Python, SQL, Java, C, JavaScript & OOP</strong></li>
   <li>📊 Exploring <strong>Data Science & Machine Learning</strong></li>
-  <li>⚡ Fun fact: <strong>I break things just to fix them better 😄</strong></li>
+  <li>⚡ Fun fact: <strong>I break systems to understand them better 😄</strong></li>
 </ul>
 
 <hr/>
@@ -49,9 +49,9 @@
 <hr/>
 
 <!-- ================= TECHNOLOGY ICONS ================= -->
-<h3 align="center">🛠️ Technologies</h3>
+<h3 align="center">🛠 Technologies</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
@@ -62,18 +62,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
-</div>
+</p>
 
 <hr/>
 
 <!-- ================= GITHUB STATS ================= -->
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&hide_border=true"
     height="160"
-    alt="Most Used Languages"
+    alt="Top Languages"
   />
   &nbsp;&nbsp;&nbsp;
   <img
@@ -81,38 +81,45 @@
     height="160"
     alt="GitHub Stats"
   />
-</div>
+</p>
+
+<hr/>
+
+<!-- ================= WHAT I'M LOOKING FOR ================= -->
+<h3>🎯 What I’m Looking For</h3>
+
+<ul>
+  <li>Backend / Full-Stack Developer roles</li>
+  <li>Opportunities to work on scalable systems</li>
+  <li>Teams that value clean code & problem solving</li>
+</ul>
 
 <hr/>
 
 <!-- ================= SOCIAL CONNECTIONS ================= -->
-<h2 align="center">Connect with me</h2>
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/abhiram__v__/" target="_blank">
+  <a href="https://www.instagram.com/abhiram__v__/" target="_blank" style="display:inline-block; margin: 0 20px;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
-      height="50"
-      width="50"
+      width="60"
+      height="60"
     />
   </a>
 
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-
-  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank">
+  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank" style="display:inline-block; margin: 0 20px;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
-      height="50"
-      width="50"
+      width="60"
+      height="60"
     />
   </a>
 </p>
 
 <hr/>
-
-
 
 <!-- ================= OUTRO ================= -->
 <div align="center">
