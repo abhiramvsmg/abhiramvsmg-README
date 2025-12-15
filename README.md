@@ -97,43 +97,6 @@
 <hr/>
 
 <!-- ================= SOCIAL CONNECTIONS ================= -->
-<!-- ================= SOCIAL CONNECTIONS ================= -->
-<h2 align="center">🤝 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.instagram.com/abhiram__v__/" target="_blank"
-     style="display:inline-block; margin: 0 12px;">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      width="36"
-      height="36"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank"
-     style="display:inline-block; margin: 0 12px;">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      width="36"
-      height="36"
-    />
-  </a>
-
-  <a href="https://github.com/abhiramvsmg" target="_blank"
-     style="display:inline-block; margin: 0 12px;">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      alt="GitHub"
-      width="36"
-      height="36"
-    />
-  </a>
-</p>
-
-<hr/>
-<!-- ================= SOCIAL CONNECTIONS ================= -->
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
