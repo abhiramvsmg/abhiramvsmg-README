@@ -105,12 +105,6 @@
     alt="Abhiram V – Most Used Languages"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true"
-    height="160"
-    alt="Abhiram V – GitHub Stats"
-  />
-</p>
 
 
 <!-- ================= OUTRO ================= -->
