@@ -51,23 +51,24 @@
 <hr/>
 
 <!-- ================= CONTACT ================= -->
-<h3>📬 Contact & Links</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhiram-v-4a0055284/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhiram-v-4a0055284/" target="blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="Abhiram V LinkedIn"
+         height="30"
+         width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/abhiram__v__/" title="Instagram">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="45"/>
+  <a href="https://www.instagram.com/abhiram__v__/" target="blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Abhiram V Instagram"
+         height="30"
+         width="40" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abhiramvsmg@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
-  </a>
-</div>
-
-<hr/>
+</p>
 
 <!-- ================= TECH ICONS ================= -->
 <h3 align="center">🛠️ Technologies</h3>
