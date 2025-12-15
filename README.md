@@ -97,32 +97,31 @@
 <hr/>
 
 <!-- ================= SOCIAL CONNECTIONS ================= -->
-<!-- ================= SOCIAL CONNECTIONS ================= -->
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/abhiram__v__/" target="_blank"
-     style="display:inline-block; margin: 0 35px;">
+     style="display:inline-block; margin: 0 15px;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
-      width="60"
-      height="60"
+      width="48"
+      height="48"
     />
   </a>
-
   <a href="https://www.linkedin.com/in/sumant-bhat-b57867293/" target="_blank"
-     style="display:inline-block; margin: 0 35px;">
+     style="display:inline-block; margin: 0 15px;">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
-      width="60"
-      height="60"
+      width="48"
+      height="48"
     />
   </a>
 </p>
 
 <hr/>
+
 
 
 <!-- ================= OUTRO ================= -->
