@@ -1,99 +1,109 @@
-<!-- ================= TYPING INTRO ================= -->
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Abhiram</h1>
+<h3 align="center">A Backend-Focused Full-Stack Developer from India</h3>
+
+<br/>
+
+<!-- ================= VISITOR / INTRO ================= -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Abhiram!"
-    alt="Hi, I'm Abhiram 👋"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Designing+Clean+REST+APIs;Always+Learning+%26+Improving"
+    alt="Typing Intro"
   />
 </div>
 
-<h1 align="center">✨ Welcome to My Digital Workspace</h1>
-
-<p align="center">
-  <strong>Full-Stack Developer · Backend-Focused Engineer</strong><br/>
-  I build scalable backend systems, clean APIs, and reliable data-driven software.
-</p>
-
+<br/>
 <hr/>
 
 <!-- ================= ABOUT ME ================= -->
-<h3>🚀 About Me</h3>
+<h2 align="center">🚀 About Me</h2>
 
-<ul>
-  <li>🔭 Designing <strong>backend systems, REST APIs & database solutions</strong></li>
-  <li>🧠 Strong foundation in <strong>DSA & logical problem solving</strong></li>
-  <li>💬 Comfortable with <strong>Python, SQL, Java, C, JavaScript & OOP</strong></li>
-  <li>📊 Exploring <strong>Data Science & Machine Learning</strong></li>
-  <li>⚡ Fun fact: <strong>I break systems to understand them better 😄</strong></li>
-</ul>
+<div align="center">
 
+🔭 Currently building **Backend Systems, REST APIs & Database Solutions**
+
+🌱 Learning **Advanced Databases, System Design & Performance Optimization**
+
+💬 Ask me about **Python, SQL, Java, C, JavaScript, OOP & DSA**
+
+📊 Exploring **Data Science & Machine Learning**
+
+⚡ Fun fact: **I break systems to understand them better 😄**
+
+</div>
+
+<br/>
 <hr/>
 
 <!-- ================= TECH STACK ================= -->
-<h3>🛠 Tech Stack</h3>
+<h2 align="center">🛠 Tech Stack</h2>
 
-<p>
-  <strong>Languages:</strong><br/>
-  Python · SQL · Java · C · JavaScript · HTML · CSS
-</p>
+<div align="center">
 
-<p>
-  <strong>Backend & APIs:</strong><br/>
-  FastAPI · Flask · Django · REST · JWT · Performance Tuning
-</p>
+**Languages**  
+Python · SQL · Java · C · JavaScript · HTML · CSS  
 
-<p>
-  <strong>Databases:</strong><br/>
-  PostgreSQL · MySQL · SQLite · MongoDB
-</p>
+<br/>
 
+**Backend & APIs**  
+FastAPI · Flask · Django · REST · JWT · Performance Tuning  
+
+<br/>
+
+**Databases**  
+PostgreSQL · MySQL · SQLite · MongoDB  
+
+</div>
+
+<br/>
 <hr/>
 
-<!-- ================= TECHNOLOGY ICONS ================= -->
-<h3 align="center">🛠 Technologies</h3>
+<!-- ================= TECHNOLOGIES ================= -->
+<h2 align="center">🛠 Languages · Frameworks · Tools</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,fastapi,flask,django,mysql,postgresql,mongodb,git,github" />
+</div>
 
+<br/>
 <hr/>
 
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramvsmg&layout=compact&show_icons=true&hide_border=true"
     height="160"
     alt="Top Languages"
   />
-  &nbsp;&nbsp;&nbsp;
+</div>
+
+<br/>
+
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=abhiramvsmg&show_icons=true&hide_border=true"
     height="160"
     alt="GitHub Stats"
   />
-</p>
+</div>
 
+<br/>
 <hr/>
 
-<!-- ================= WHAT I'M LOOKING FOR ================= -->
-<h3>🎯 What I’m Looking For</h3>
+<!-- ================= CAREER INTEREST ================= -->
+<h2 align="center">🎯 Career Interests</h2>
 
-<ul>
-  <li>Backend / Full-Stack Developer roles</li>
-  <li>Opportunities to work on scalable systems</li>
-  <li>Teams that value clean code & problem solving</li>
-</ul>
+<div align="center">
 
+Backend / Full-Stack Developer Roles  
+Scalable Systems & API Design  
+Teams that value clean code & problem solving  
+
+</div>
+
+<br/>
 <hr/>
 
 <!-- ================= SOCIAL CONNECTIONS ================= -->
@@ -131,13 +141,13 @@
   </a>
 </p>
 
+<br/>
 <hr/>
 
-
 <!-- ================= OUTRO ================= -->
-<div align="center">
+<h3 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!"
-    alt="Thanks for visiting 🙌"
+    src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!;Have+A+Great+Day!;Feel+Free+To+Connect+%F0%9F%91%8B"
+    alt="Outro"
   />
-</div>
+</h3>
